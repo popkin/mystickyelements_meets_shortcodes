@@ -1,11 +1,13 @@
-=== myStickyElements ===
-Contributors: damiroquai
+﻿=== myStickyElements ===
+Contributors: damiroquai - popkin
 Donate link: http://wordpress.transformnews.com
 Tags: sticky, plugin, social, video, content
 Requires at least: 3.8
-Tested up to: 3.9.1
+Tested up to: 4.5.4
 Stable tag: 1.0
 License: GPLv2 or later
+
+myStickyElements' author is damiroquai. I'm just upgrading this plugin to get the habiliti of include shortcodes into the content.
 
 myStickyElements is simple yet very effective plugin. It is perfect to fill out usually unused side space on webpages with some additional messages
 == Description ==
